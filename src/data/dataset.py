@@ -102,6 +102,6 @@ def get_dataset():
 
     return None
 
-# Run the function
-df = get_dataset()
-print(df.head()['trending_date'])
+# # Run the function
+# df = get_dataset()
+# print(df.head()['trending_date'])

@@ -7,3 +7,5 @@ def render_chat_bot():
             st.write(user_query)
     with st.chat_message('ai'):
         st.write("Hello Buddy")
+
+render_chat_bot()
