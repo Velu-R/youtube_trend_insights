@@ -1,0 +1,9 @@
+fastapi[standard]
+kagglehub[pandas-datasets]
+streamlit
+pandas
+google-api-python-client
+dotenv
+supabase
+requests
+psycopg2
