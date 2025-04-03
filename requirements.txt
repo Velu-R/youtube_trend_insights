@@ -7,3 +7,5 @@ dotenv
 supabase
 requests
 psycopg2
+openai
+groq
